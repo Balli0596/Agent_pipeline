@@ -59,7 +59,7 @@ Chat Interface
 ## Project Structure
 
 ```text
-ai-agent-tools/
+Agent_pipeline/
 ├── agent/
 │   ├── __init__.py
 │   ├── controller.py
@@ -103,8 +103,6 @@ Install the following before running the project:
 git clone https://github.com/Balli0596/Agent_pipeline
 cd ai-agent-tools
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Set up the Python backend
 
